@@ -1,9 +1,3 @@
-'''
-
-CALCULATOR USING TIKINTER
-
-'''
-
 from tkinter import *
 from tkinter import ttk
 
